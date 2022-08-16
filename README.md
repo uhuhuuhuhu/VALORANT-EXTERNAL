@@ -21,7 +21,13 @@ VAL0ADER is a free, upcoming Loader for the game VALORANT from Riot Games. VAL0A
 
 ---
 
-## ⚠️ Currently updating
+## Table of Contents
+• [Features](https://github.com/Lunahax/VAL0ADER/blob/main/README.md#features)
+• [ESP Preview](https://github.com/Lunahax/VAL0ADER/blob/main/README.md#esp-preview)
+• [A1MB0T Preview](https://github.com/Lunahax/VAL0ADER/blob/main/README.md#a1mb0t-preview)
+• [Download](https://github.com/Lunahax/VAL0ADER/blob/main/README.md#download)
+• [Installation](https://github.com/Lunahax/VAL0ADER/blob/main/README.md#installation)
+• [The Team](1https://github.com/Lunahax/VAL0ADER/blob/main/README.md#the-team)
 
 ---
 
