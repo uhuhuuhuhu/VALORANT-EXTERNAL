@@ -1,5 +1,6 @@
-# VALORANT VAL0ADER
-![Head](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/gh_header.jpg)
+# VAL0ADER
+[![VAL0ADER](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/gh_header.jpg)](https://github.com/Lunahax/VAL0ADER)
+VAL0ADER is a free, upcoming Loader for the game VALORANT from Riot Games. VAL0ADER comes with features like A1mb0ts, ESPs, Tracers, Custom Accuracy Settings and more.
 
 ### Made by
 ![Alune](https://img.shields.io/badge/Alune-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
@@ -20,7 +21,7 @@
 
 ---
 
-## ⚠️ Val0ader is currently updating
+## ⚠️ Currently updating
 
 ---
 
