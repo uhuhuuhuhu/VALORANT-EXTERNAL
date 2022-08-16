@@ -27,12 +27,12 @@ VAL0ADER is a free, upcoming Loader for the game VALORANT from Riot Games. VAL0A
 
 ## Features
 ![Features](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/gh_features.jpg)
-- **A1MB0T**
+- **A1MB0T** (preview below)
   - select between head, body, legs & random
   - adjust your a1mb0t fov
   - adjust the accuracy of your shots
   - toggle tr1ggerb0t
-- **ESP**
+- **ESP** (preview below)
   - box
   - hp bars
   - full
@@ -42,6 +42,15 @@ VAL0ADER is a free, upcoming Loader for the game VALORANT from Riot Games. VAL0A
   - legit
   - rage
   - custom
+
+---
+
+## ESP Preview
+![1](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/esp/Valorant_Screenshot_2022.08.12_-_17.40.03.98.png)
+![2](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/esp/Valorant_Screenshot_2022.08.12_-_17.39.23.65.png)
+
+## A1MB0T Preview
+
 
 ---
 
