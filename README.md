@@ -50,7 +50,8 @@ VAL0ADER is a free, upcoming Loader for the game VALORANT from Riot Games. VAL0A
 ![2](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/esp/Valorant_Screenshot_2022.08.12_-_17.39.23.65.png)
 
 ## A1MB0T Preview
-![1](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/a1mbot/a1m_preview.mp4)
+Loading might take a while due to file size of preview (15MB)
+![1](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/a1mbot/a1m.gif)
 
 ---
 
