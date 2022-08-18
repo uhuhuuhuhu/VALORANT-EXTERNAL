@@ -15,9 +15,9 @@ VAL0ADER is a free, upcoming Loader for the game VALORANT from Riot Games. VAL0A
 ### Compatible with
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Socials
-[![Discord Server](https://img.shields.io/badge/Discord%20Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/A6Y9evNWBz)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/alune.xyz)
+### Discord
+https://discord.gg/v4l
+[![Discord](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/Screenshot_20220818-222008_Discord.jpg)](https://discord.gg/v4l)
 
 ---
 
@@ -64,7 +64,7 @@ VAL0ADER is a free, upcoming Loader for the game VALORANT from Riot Games. VAL0A
 ![Download](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/gh_download.jpg)
 Download in [releases](https://github.com/Lunahax/VAL0ADER/releases)<br>
 Software does not work without valid key.<br>
-Keys can be obtained through our [Discord](https://discord.gg/A6Y9evNWBz).
+Keys can be obtained through our [Discord](https://discord.gg/v4l).
 
 ---
 
