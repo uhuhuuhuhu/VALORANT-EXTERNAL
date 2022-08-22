@@ -86,6 +86,6 @@ Run the file, adjust settings, use.
 ![Emili0](https://img.shields.io/badge/Emili0-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![fruitmy](https://img.shields.io/badge/fruitmy-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Grinchy](https://img.shields.io/badge/Grinchy-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![munchies](https://img.shields.io/badge/munchies-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Legend Recalls](https://img.shields.io/badge/Legend%20Recalls-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![WhiteShadow](https://img.shields.io/badge/WhiteShadow-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Zapper1127](https://img.shields.io/badge/Zapper1127-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
