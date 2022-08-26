@@ -37,17 +37,10 @@ https://discord.gg/v4l <br>
   - select between head, body, legs & random
   - adjust your a1mb0t fov
   - adjust the accuracy of your shots
-  - toggle tr1ggerb0t
 - **ESP** (preview below)
   - box
   - hp bars
   - full
-- **TRAC3RS**
-  - adjust color
-- **PRESETS**
-  - legit
-  - rage
-  - custom
 
 ---
 
@@ -80,12 +73,10 @@ Run the file, adjust settings, use.
 ![Alune](https://img.shields.io/badge/Alune-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![XLXNZ](https://img.shields.io/badge/XLXNZ-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Vier](https://img.shields.io/badge/Vier-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![CJ](https://img.shields.io/badge/CJ-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![naber top](https://img.shields.io/badge/naber%20top-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![D A N Y](https://img.shields.io/badge/D%20A%20N%20Y-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Mr Potato](https://img.shields.io/badge/Mr%20Potato-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Emili0](https://img.shields.io/badge/Emili0-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![fruitmy](https://img.shields.io/badge/fruitmy-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Grinchy](https://img.shields.io/badge/Grinchy-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Legend Recalls](https://img.shields.io/badge/Legend%20Recalls-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![WhiteShadow](https://img.shields.io/badge/WhiteShadow-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Zapper1127](https://img.shields.io/badge/Zapper1127-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Blader](https://img.shields.io/badge/Blader-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Exotic](https://img.shields.io/badge/Exotic-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
