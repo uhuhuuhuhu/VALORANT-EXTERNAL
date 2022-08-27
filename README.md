@@ -23,6 +23,7 @@ https://discord.gg/v4l <br>
 
 ## Table of Contents
 <br>• [Features](https://github.com/Lunahax/VAL0ADER/blob/main/README.md#features)
+<br>• [UI Preview](https://github.com/Lunahax/VAL0ADER/blob/main/README.md#ui-preview)
 <br>• [ESP Preview](https://github.com/Lunahax/VAL0ADER/blob/main/README.md#esp-preview)
 <br>• [A1MB0T Preview](https://github.com/Lunahax/VAL0ADER/blob/main/README.md#a1mb0t-preview)
 <br>• [Download](https://github.com/Lunahax/VAL0ADER/blob/main/README.md#download)
@@ -45,7 +46,7 @@ https://discord.gg/v4l <br>
 ---
 
 ## UI Preview
-![1](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/ui/)
+![1](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/ui/unknown.png)
 
 ## ESP Preview
 ![1](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/esp/Valorant_Screenshot_2022.08.12_-_17.40.03.98.png)
