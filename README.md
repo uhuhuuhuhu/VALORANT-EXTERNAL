@@ -79,13 +79,10 @@ Updates for VAL0ADER will probably **not** follow.
 ---
 
 ## UI Preview
-> Will update image later
-
-![1](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/ui/unknown.png)
+![1](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/ui/UI.jpg)
+![2](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/ui/MENU.png)
 
 ## ESP Preview
-> Will update images later
-
 ![1](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/esp/Valorant_Screenshot_2022.08.12_-_17.40.03.98.png)
 ![2](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/esp/Valorant_Screenshot_2022.08.12_-_17.39.23.65.png)
 
