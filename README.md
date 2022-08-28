@@ -19,6 +19,10 @@ VAL0ADER is a free, upcoming Loader for the game VALORANT from Riot Games. VAL0A
 https://discord.gg/v4l <br>
 [![Discord](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/Screenshot_20220818-222008_Discord.jpg)](https://discord.gg/v4l)
 
+### ⚠️ Support for this project is ending
+Our devs are currently quitting due to bans, a disrespectful community, etc..
+Updates for VAL0ADER will probably **not** follow.
+
 ---
 
 ## Table of Contents
