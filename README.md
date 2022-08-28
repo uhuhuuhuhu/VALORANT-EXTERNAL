@@ -1,10 +1,11 @@
 # VAL0ADER
 [![VAL0ADER](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/gh_header.jpg)](https://github.com/Lunahax/VAL0ADER)
-VAL0ADER is a free, upcoming Loader for the game VALORANT from Riot Games. VAL0ADER comes with features like A1mb0ts, ESPs, Tracers, Custom Accuracy Settings and more.
+VAL0ADER is a Cheetloader for the game VALORANT from Riot Games. VAL0ADER comes with features like A1mbots, ESPs, Tracers, Custom Accuracy Settings and more.
 
 ### Made by
 ![Alune](https://img.shields.io/badge/Alune-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![XLXNZ](https://img.shields.io/badge/XLXNZ-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Vier](https://img.shields.io/badge/Vier-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ### Made with
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -13,11 +14,10 @@ VAL0ADER is a free, upcoming Loader for the game VALORANT from Riot Games. VAL0A
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Compatible with
-![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Discord
 https://discord.gg/v4l <br>
-[![Discord](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/Screenshot_20220818-222008_Discord.jpg)](https://discord.gg/v4l)
 
 ### ⚠️ Support for this project is ending
 Our devs are currently quitting due to bans, a disrespectful community, etc..
@@ -37,47 +37,71 @@ Updates for VAL0ADER will probably **not** follow.
 ---
 
 ## Features
-![Features](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/gh_features.jpg)
-- **A1MB0T** (preview below)
-  - select between head, body, legs & random
-  - adjust your a1mb0t fov
-  - adjust the accuracy of your shots
-- **ESP** (preview below)
-  - box
-  - hp bars
-  - full
+- **A1MB0T**
+  - Multiple a1mb0t modes
+    - Unsilent
+    - Silent
+    - Smooth
+    - Aim assist
+    - Aim correction
+    - Tbot
+    - Cbot
+  - Toggle
+    - On aim
+    - On press
+    - On key hold
+  - Custom accuracy
+  - Custom a1mbot FOV
+  - Range
+- **ESP**
+  - Multiple ESP modes
+    - Box
+    - Hp Bars
+    - Full
+  - Toggle Tracers
+- **Customization**
+  - Custom colors
+    - Change Box color
+    - Change Tracer color
+- **Visuals**
+  - Wireframe
+  - Skin changer
+  - Unlock skins
+  - Unlock Buddies
+  - Unlock Player cards
+- **Tweaks**
+  - Auto-bhop
+  - Auto-agent-lock
+  - Auto-buy
+  - Auto-login
+  - No inactivity kick\
 
 ---
 
 ## UI Preview
+> Will update image later
+
 ![1](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/ui/unknown.png)
 
 ## ESP Preview
+> Will update images later
+
 ![1](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/esp/Valorant_Screenshot_2022.08.12_-_17.40.03.98.png)
 ![2](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/esp/Valorant_Screenshot_2022.08.12_-_17.39.23.65.png)
 
 ## A1MB0T Preview
+> Settings for this clip: A1mbot mode: Smooth on key hold; Accuracy: 75%; Range: 0; FOV: 15; ESP: 0; Tracers: 0;
+
 ![1](https://github.com/Lunahax/VAL0ADER/blob/main/img/a1mb0t/a1m.gif?raw=true)
 
 ---
 
-## Download
-![Download](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/gh_download.jpg)
-Download in [releases](https://github.com/Lunahax/VAL0ADER/releases)<br>
-Software does not work without valid key.<br>
-Keys can be obtained through our [Discord](https://discord.gg/v4l).
-
----
-
 ## Installation
-![Installation](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/gh_install.jpg)
 Run the file, adjust settings, use.
-> No running as admin, injection or similar.
 
 ---
 
 ## The Team
-![The Team](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/gh_team.jpg)
 ![Alune](https://img.shields.io/badge/Alune-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![XLXNZ](https://img.shields.io/badge/XLXNZ-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Vier](https://img.shields.io/badge/Vier-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
@@ -86,5 +110,9 @@ Run the file, adjust settings, use.
 ![fruitmy](https://img.shields.io/badge/fruitmy-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Grinchy](https://img.shields.io/badge/Grinchy-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Legend Recalls](https://img.shields.io/badge/Legend%20Recalls-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Blader](https://img.shields.io/badge/Blader-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Exotic](https://img.shields.io/badge/Exotic-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+---
+
+## Important Notes
+- Provided code works only partially. Contact us on Discord for full functionality
