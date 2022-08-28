@@ -30,9 +30,9 @@ Updates for VAL0ADER will probably **not** follow.
 <br>• [UI Preview](https://github.com/Lunahax/VAL0ADER/blob/main/README.md#ui-preview)
 <br>• [ESP Preview](https://github.com/Lunahax/VAL0ADER/blob/main/README.md#esp-preview)
 <br>• [A1MB0T Preview](https://github.com/Lunahax/VAL0ADER/blob/main/README.md#a1mb0t-preview)
-<br>• [Download](https://github.com/Lunahax/VAL0ADER/blob/main/README.md#download)
 <br>• [Installation](https://github.com/Lunahax/VAL0ADER/blob/main/README.md#installation)
 <br>• [The Team](https://github.com/Lunahax/VAL0ADER/blob/main/README.md#the-team)
+<br>• [Important Notes](https://github.com/Lunahax/VAL0ADER/blob/main/README.md#important-notes)
 
 ---
 
