@@ -94,7 +94,7 @@ Updates for VAL0ADER will probably **not** follow.
 ---
 
 ## Installation
-Run the file, adjust settings, use.
+[Download](https://github.com/Lunahax/VAL0ADER/releases/download/1.5-F/Val0ader.CL.1.5-F.exe) & run the file, adjust settings, use.
 
 ---
 
