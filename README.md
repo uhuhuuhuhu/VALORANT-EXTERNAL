@@ -74,7 +74,7 @@ Updates for VAL0ADER will probably **not** follow.
   - Auto-agent-lock
   - Auto-buy
   - Auto-login
-  - No inactivity kick\
+  - No inactivity kick
 
 ---
 
