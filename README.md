@@ -8,20 +8,15 @@ VAL0ADER is a VALORANT Cheetloader which comes with A1mbot, ESP, Visual Modifier
 ![Vier](https://img.shields.io/badge/Vier-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ### Made with
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Compatible with
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br>Please note that not all windows versions are supported yet. We are working on a fix.
-### Discord
-https://discord.gg/v4l <br>
 
-### ⚠️ Support for this project is ending
-Our devs are currently quitting due to bans, a disrespectful community, etc..
-Updates for VAL0ADER will probably **not** follow.
+### [Need help? Click me!](https://discord.gg/v4l)
 
 ---
 
@@ -52,7 +47,6 @@ Updates for VAL0ADER will probably **not** follow.
     - On key hold
   - Custom accuracy
   - Custom a1mbot FOV
-  - Range
 - **ESP**
   - Multiple ESP modes
     - Box
@@ -74,7 +68,7 @@ Updates for VAL0ADER will probably **not** follow.
   - Auto-agent-lock
   - Auto-buy
   - Auto-login
-  - No inactivity kick
+  - Anti-AFK
 
 ---
 
@@ -105,8 +99,6 @@ Updates for VAL0ADER will probably **not** follow.
 ![Mr Potato](https://img.shields.io/badge/Mr%20Potato-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Emili0](https://img.shields.io/badge/Emili0-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![fruitmy](https://img.shields.io/badge/fruitmy-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Grinchy](https://img.shields.io/badge/Grinchy-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Legend Recalls](https://img.shields.io/badge/Legend%20Recalls-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Exotic](https://img.shields.io/badge/Exotic-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
