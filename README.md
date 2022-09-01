@@ -1,6 +1,6 @@
-# VAL0ADER
+<!-- Header Image -->
 [![VAL0ADER](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/gh_header.jpg)](https://github.com/Lunahax/VAL0ADER)
-VAL0ADER is a Cheetloader for the game VALORANT from Riot Games. VAL0ADER comes with features like A1mbots, ESPs, Tracers, Custom Accuracy Settings and more.
+VAL0ADER is a VALORANT Cheetloader which comes with A1mbot, ESP, Visual Modifiers and more.
 
 ### Made by
 ![Alune](https://img.shields.io/badge/Alune-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
@@ -15,7 +15,7 @@ VAL0ADER is a Cheetloader for the game VALORANT from Riot Games. VAL0ADER comes 
 
 ### Compatible with
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
+<br>Please note that not all windows versions are supported yet. We are working on a fix.
 ### Discord
 https://discord.gg/v4l <br>
 
