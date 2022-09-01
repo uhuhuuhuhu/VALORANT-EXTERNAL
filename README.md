@@ -73,8 +73,13 @@ VAL0ADER is a VALORANT Cheetloader which comes with A1mbot, ESP, Visual Modifier
 ---
 
 ## UI Preview
-![1](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/ui/UI.jpg)
-![2](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/ui/MENU.png)
+![1](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/ui/startscreen.png)
+
+### No Premium
+![1](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/ui/noprem.png)
+
+### Premium unlocked
+![1](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/ui/prem.png)
 
 ## ESP Preview
 ![1](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/esp/Valorant_Screenshot_2022.08.12_-_17.40.03.98.png)
