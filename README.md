@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20by-Lunahax-brightgreen?style=for-the-badge">
+  <a href="https://github.com/Lunahax"><img src="https://img.shields.io/badge/Made%20by-Lunahax-brightgreen?style=for-the-badge"></a>
   <img src="https://img.shields.io/badge/version-1.5.4--F-brightgreen?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/Lunahax/VAL0ADER?color=%02B039&label=Stars&style=for-the-badge">
   <img src="https://img.shields.io/github/downloads/Lunahax/VAL0ADER/total?color=brightgreen&style=for-the-badge">
