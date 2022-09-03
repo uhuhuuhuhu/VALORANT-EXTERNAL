@@ -195,6 +195,10 @@ VAL0ADER, it's repository, etc. have been inspired by:
 - Sarnax
 - Rdimo
 
+Credits go to:
+- Sarnax for his awesome open source repo
+- Baguette man for his C#/C++ tutorials
+
 Special thanks to:
 - Baguette man
 - Vier
