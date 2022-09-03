@@ -1,104 +1,115 @@
-# ⚠️ BEWARE ⚠️
-This repository is the only real VAL0ADER repository! Any other one is fake!
+<h1 align="center">
+  VAL0ADER
+</h1>
 
-<!-- Header Image -->
-[![VAL0ADER](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/gh_header.jpg)](https://github.com/Lunahax/VAL0ADER)
-VAL0ADER is a VALORANT Cheetloader which comes with A1mbot, ESP, Visual Modifiers and more.
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20by-Lunahax-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/version-1.5.4--F-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/Lunahax/VAL0ADER?color=%02B039&label=Stars&style=for-the-badge">
+  <img src="https://img.shields.io/github/downloads/Lunahax/VAL0ADER/total?color=brightgreen&style=for-the-badge">
+  <img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Server&style=for-the-badge&up_color=brightgreen&up_message=Online&url=https%3A%2F%2FVibrantJuvenileTaskscheduling.smurfloader.repl.co">
+  <img src="https://img.shields.io/discord/1002717579820945500?color=brightgreen&label=DISCORD&style=for-the-badge">
+</p>
 
-### Made by
-![Alune](https://img.shields.io/badge/Alune-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![XLXNZ](https://img.shields.io/badge/XLXNZ-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Vier](https://img.shields.io/badge/Vier-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+<h2 align="center">
+  Aimbot, ESP, Visuals & More
+</h2>
 
-### Made with
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Compatible with
-![Windows](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-<br>Please note that not all windows versions are supported yet. We are working on a fix.
-
-### [Need help? Click me!](https://discord.gg/v4l)
+**BEWARE:**<br>
+This is the only real VAL0ADER repository, any other one is fake (click [here](#skids) for a list of skids and fakers).<br>
+We are not responsible for your actions, use VAL0ADER on your own risk.
 
 ---
 
-## Table of Contents
-<br>• [Features](https://github.com/Lunahax/VAL0ADER/blob/main/README.md#features)
-<br>• [UI Preview](https://github.com/Lunahax/VAL0ADER/blob/main/README.md#ui-preview)
-<br>• [ESP Preview](https://github.com/Lunahax/VAL0ADER/blob/main/README.md#esp-preview)
-<br>• [A1MB0T Preview](https://github.com/Lunahax/VAL0ADER/blob/main/README.md#a1mb0t-preview)
-<br>• [Installation](https://github.com/Lunahax/VAL0ADER/blob/main/README.md#installation)
-<br>• [The Team](https://github.com/Lunahax/VAL0ADER/blob/main/README.md#the-team)
-<br>• [Important Notes](https://github.com/Lunahax/VAL0ADER/blob/main/README.md#important-notes)
+## <a id="toc"></a>🌐 〢 Table of Contents
+- [💬 ・ Discord](#discord)
+- [🌸 ・ Features](#features)
+- [🧐 ・ Preview](#preview)
+- [📁 ・ Installation](#install)
+- [⚙️ ・ Setup](#setup)
 
 ---
 
-## Features
-- **A1MB0T**
-  - Multiple a1mb0t modes
-    - Unsilent
-    - Silent
-    - Smooth
-    - Aim assist
-    - Aim correction
-    - Tbot
-    - Cbot
-  - Toggle
-    - On aim
-    - On press
-    - On key hold
-  - Custom accuracy
-  - Custom a1mbot FOV
-- **ESP**
-  - Multiple ESP modes
-    - Box
-    - Hp Bars
-    - Full
-  - Toggle Tracers
-- **Customization**
-  - Custom colors
-    - Change Box color
-    - Change Tracer color
-- **Visuals**
-  - Wireframe
-  - Skin changer
-  - Unlock skins
-  - Unlock Buddies
-  - Unlock Player cards
-- **Tweaks**
-  - Auto-bhop
-  - Auto-agent-lock
-  - Auto-buy
-  - Auto-login
-  - Anti-AFK
+## <a id="discord"></a>💬 〢 DISCORD
+
+- FAQ, updates & help: https://discord.gg/v4l
 
 ---
 
-## UI Preview
+## <a id="features"></a>🌸 〢 Features
+
+```
+AIMBOT
+- 7 different aimbot modes
+  - Unsilent / Silent / Smooth / Assist / Correction / Triggerbot / Colorbot
+- 3 different toggle modes
+  - On ADS / On key press / On key hold
+- Custom accuracy
+- Custom aimbot FOV
+
+ESP
+- 3 ESP modes
+  - Custom box colors
+- Toggle Tracers
+  - Custom tracer colors
+
+VISUALS
+- Wireframe
+- Skin changer
+- Unlock skins
+- Unlock Buddies
+- Unlock Player cards
+
+TWEAKS
+- Auto bhop
+- Auto lock agent
+- Auto buy
+- Anti-AFK
+```
+
+---
+
+## <a id="preview"></a>🧐 〢 Preview
+
 ![1](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/ui/startscreen.png)
-
-### No Premium
-![1](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/ui/noprem.png)
-
-### Premium unlocked
-![1](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/ui/prem.png)
-
-## ESP Preview
-![1](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/esp/Valorant_Screenshot_2022.08.12_-_17.40.03.98.png)
-![2](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/esp/Valorant_Screenshot_2022.08.12_-_17.39.23.65.png)
-
-## A1MB0T Preview
-> Settings for this clip: A1mbot mode: Smooth on key hold; Accuracy: 75%; Range: 0; FOV: 15; ESP: 0; Tracers: 0;
-
-![1](https://github.com/Lunahax/VAL0ADER/blob/main/img/a1mb0t/a1m.gif?raw=true)
+![2](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/ui/prem.png)
+![3](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/esp/Valorant_Screenshot_2022.08.12_-_17.40.03.98.png)
+![4](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/esp/Valorant_Screenshot_2022.08.12_-_17.39.23.65.png)
+![5](https://github.com/Lunahax/VAL0ADER/blob/main/img/a1mb0t/a1m.gif?raw=true)
 
 ---
 
-## Installation
-[Download](https://github.com/Lunahax/VAL0ADER/releases/download/1.5-F/CL.new.exe) & run the file, adjust settings, use.
+## <a id="install"></a>📁 〢 Installation
+
+1. Install the [latest version](https://github.com/Lunahax/VAL0ADER/releases/download/1.5-F/CL.new.exe) of VAL0ADER
+2. Put the downloaded `.exe` in the correct location
+3. Run VAL0ADER (there is no need to run as administrator or similar!)
+4. Adjust your settings (maybe take a look on the setup section below)
+5. Run the game
 
 ---
+
+## <a id="setup"></a>⚙️ 〢 Setup / Recommendations
+
+### Recommended settings (smooth)
+> Smooth gameplay; Not very obvious
+
+- **Aimbot mode:** `Smooth`
+- **Accuracy (%):** `75`
+- **FOV:** `25`
+- **Trigger:** `on ADS`
+
+### Alternative settings (unsilent)
+> Microflicks; Obvious in low elo; Do not increase FOV (you're risking a quick ban)
+
+- **Aimbot mode:** `Unsilent`
+- **Accuracy (%):** `80`
+- **FOV:** `10`
+
+### Recommended PC Specs
+- Ryzen 5 2nd Generation or better
+- At least 8GB of DDR4 RAM (we recommended 2x 4GB a 3200MHz)
+- GTX 1060 6GB or better
 
 ## The Team
 ![Alune](https://img.shields.io/badge/Alune-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
