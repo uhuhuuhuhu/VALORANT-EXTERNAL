@@ -15,7 +15,7 @@
   Aimbot, ESP, Visuals & More
 </h2>
 
-**BEWARE:**<br>
+#### QUICK NOTE:
 This is the only real VAL0ADER repository, any other one is fake (click [here](#skids) for a list of skids and fakers).<br>
 We are not responsible for your actions, use VAL0ADER on your own risk.
 
