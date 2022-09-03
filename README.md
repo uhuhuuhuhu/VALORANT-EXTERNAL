@@ -16,6 +16,7 @@
 </h2>
 
 #### QUICK NOTE:
+The provided C#/C++ source code is **NOT** 100% functional and has not been made by me.
 This is the only real VAL0ADER repository, any other one is fake (click [here](#skids) for a list of skids and fakers).<br>
 We are not responsible for your actions, use VAL0ADER on your own risk.
 
