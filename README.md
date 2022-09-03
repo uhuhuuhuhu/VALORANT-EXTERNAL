@@ -22,16 +22,16 @@ We are not responsible for your actions, use VAL0ADER on your own risk.
 ---
 
 ## <a id="toc"></a>🌐 〢 Table of Contents
-- [💬 ・ Discord](#discord)
-- [🌸 ・ Features](#features)
-- [🧐 ・ Preview](#preview)
-- [📁 ・ Installation](#install)
-- [⚙️ ・ Setup](#setup)
-- [💎 ・ Premium](#premium)
-- [💭 ・ Changelogs](#changes)
-- [👥 ・ The Team](#team)
-- [🤓 ・ Skids](#skids)
-- [🙏 ・ Last words](#lw)
+- [💬 ・ Discord](https://github.com/Lunahax/VAL0ADER#discord)
+- [🌸 ・ Features](https://github.com/Lunahax/VAL0ADER#features)
+- [🧐 ・ Preview](https://github.com/Lunahax/VAL0ADER#preview)
+- [📁 ・ Installation](https://github.com/Lunahax/VAL0ADER#install)
+- [⚙️ ・ Setup](https://github.com/Lunahax/VAL0ADER#setup)
+- [💎 ・ Premium](https://github.com/Lunahax/VAL0ADER#premium)
+- [💭 ・ Changelogs](https://github.com/Lunahax/VAL0ADER#changes)
+- [👥 ・ The Team](https://github.com/Lunahax/VAL0ADER#team)
+- [🤓 ・ Skids](https://github.com/Lunahax/VAL0ADER#skids)
+- [🙏 ・ Last words](https://github.com/Lunahax/VAL0ADER#lw)
 
 ---
 
