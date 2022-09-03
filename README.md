@@ -27,6 +27,8 @@ We are not responsible for your actions, use VAL0ADER on your own risk.
 - [🧐 ・ Preview](#preview)
 - [📁 ・ Installation](#install)
 - [⚙️ ・ Setup](#setup)
+- [👥 ・ The Team](#team)
+- [🤓 ・ Skids](#skids)
 
 ---
 
@@ -111,7 +113,9 @@ TWEAKS
 - At least 8GB of DDR4 RAM (we recommended 2x 4GB a 3200MHz)
 - GTX 1060 6GB or better
 
-## The Team
+---
+
+## <a id="team"></a>👥 〢 The Team
 ![Alune](https://img.shields.io/badge/Alune-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![XLXNZ](https://img.shields.io/badge/XLXNZ-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Vier](https://img.shields.io/badge/Vier-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
@@ -122,5 +126,9 @@ TWEAKS
 
 ---
 
-## Important Notes
-- Provided code works only partially. Contact us on Discord for full functionality
+## <a id="skids"></a>🤓 〢 Skids
+
+Go learn coding and stop copying my code then putting your name in it. Go back to high school, put `tree` into your school's computer and pro-claim yourself a hacker.
+
+#### List of skids, fakers, etc
+- A989
