@@ -27,6 +27,8 @@ We are not responsible for your actions, use VAL0ADER on your own risk.
 - [🧐 ・ Preview](#preview)
 - [📁 ・ Installation](#install)
 - [⚙️ ・ Setup](#setup)
+- [💎 ・ Premium](#premium)
+- [💭 ・ Changelogs](#changes)
 - [👥 ・ The Team](#team)
 - [🤓 ・ Skids](#skids)
 - [🙏 ・ Last words](#lw)
@@ -113,6 +115,56 @@ TWEAKS
 - Ryzen 5 2nd Generation or better
 - At least 8GB of DDR4 RAM (we recommended 2x 4GB a 3200MHz)
 - GTX 1060 6GB or better
+
+---
+
+## <a id="premium"></a>💎 〢 Premium
+
+VAL0ADER is a free to use software and will therefore have some limitations compared to the premium version.<br>
+A comparison can be found below.
+
+```diff
+Premium
++ Access to all 7 aimbot modes
++ Access to trigger modes
++ Access to tracers
++ Access to custom colors
++ Access to visuals and tweaks
+
+Basic (free)
+- Limited access to aimbot modes
+- No access to trigger modes, tracers, custom colors, visuals & tweaks
+```
+
+The premium version is not available yet.
+
+---
+
+## <a id="changes"></a>💭 〢 Changelogs
+
+```diff
+v1.5.3 | 31/08/2022
++ Added ToS
++ Edited watermarks
++ New obfuscation
+
+v1.5.2 | 30/08/2022
++ Improved watermarks
++ Added new obfuscation
+- Various bugfixes
+
+v1.5.1 | 29/08/2022
++ Added compability for winvers below 1909
+
+v1.5.0 | 28/08/2022
++ UI Improvements
+- Temporarily removed limited access
+
+v1.4.0 | 27/08/2022
++ New UI
++ New Modmenu
+- Bugfixes
+```
 
 ---
 
