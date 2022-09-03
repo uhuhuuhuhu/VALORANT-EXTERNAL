@@ -29,6 +29,7 @@ We are not responsible for your actions, use VAL0ADER on your own risk.
 - [⚙️ ・ Setup](#setup)
 - [👥 ・ The Team](#team)
 - [🤓 ・ Skids](#skids)
+- [🙏 ・ Last words](#lw)
 
 ---
 
@@ -132,6 +133,22 @@ Go learn coding and stop copying my code then putting your name in it. Go back t
 
 #### List of skids, fakers, etc
 - A989
+
+---
+
+## <a id="lw"></a>🙏 〢 Some last words
+
+VAL0ADER, it's repository, etc. have been inspired by:
+- Ileriayo
+- Sarnax
+- Rdimo
+
+Special thanks to:
+- Baguette man
+- Vier
+- Mr Potato
+
+Like this project? Feel free to leave a star ⭐
 
 <p align="center">
 <a href=#top>Back to Top</a>
