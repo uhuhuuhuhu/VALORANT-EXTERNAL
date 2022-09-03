@@ -1,3 +1,6 @@
+# ⚠️ BEWARE ⚠️
+This repository is the only real VAL0ADER repository! Any other one is fake!
+
 <!-- Header Image -->
 [![VAL0ADER](https://raw.githubusercontent.com/Lunahax/VAL0ADER/main/img/gh_header.jpg)](https://github.com/Lunahax/VAL0ADER)
 VAL0ADER is a VALORANT Cheetloader which comes with A1mbot, ESP, Visual Modifiers and more.
