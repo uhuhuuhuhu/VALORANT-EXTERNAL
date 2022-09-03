@@ -132,3 +132,7 @@ Go learn coding and stop copying my code then putting your name in it. Go back t
 
 #### List of skids, fakers, etc
 - A989
+
+<p align="center">
+<a href=#top>Back to Top</a>
+</p>
