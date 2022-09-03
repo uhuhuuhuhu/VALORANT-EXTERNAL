@@ -15,10 +15,10 @@
   Aimbot, ESP, Visuals & More
 </h2>
 
-#### QUICK NOTE:
-The provided C#/C++ source code is **NOT** 100% functional and has not been made by me.
-This is the only real VAL0ADER repository, any other one is fake (click [here](#skids) for a list of skids and fakers).<br>
-We are not responsible for your actions, use VAL0ADER on your own risk.
+#### QUICK NOTES
+- The provided C#/C++ source code is **NOT** 100% functional and has not been made by me.
+- This is the only real VAL0ADER repository, any other one is fake (click [here](#skids) for a list of skids and fakers).
+- I am not responsible for your actions, use VAL0ADER on your own risk.
 
 ---
 
@@ -114,7 +114,7 @@ TWEAKS
 
 ### Recommended PC Specs
 - Ryzen 5 2nd Generation or better
-- At least 8GB of DDR4 RAM (we recommended 2x 4GB a 3200MHz)
+- At least 8GB of DDR4 RAM (I recommended 2x 4GB a 3200MHz)
 - GTX 1060 6GB or better
 
 ---
