@@ -1,3 +1,10 @@
+
+
+<!-- Friendly Reminder: Do not forget to give credit, I'd be very thankful --->
+
+
+
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Lunahax/images/main/VAL0ADER/img/val0ader.jpg">
 </h1>
