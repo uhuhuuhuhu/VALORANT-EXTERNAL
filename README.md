@@ -131,16 +131,35 @@ TWEAKS
 VAL0ADER is a free to use software and will therefore have some limitations compared to the premium version.<br>
 A comparison can be found below.
 
-
-|               | Premium | Basic |
+### General
+| General | Basic | Premium |
 | ------------- | ------------- | ------------- |
-| **Aimbot modes**  | 7 | 3 |
+| **Aimbot modes**  | 3 | 7 |
 | **ESP modes**  | 3 | 3 |
-| **Trigger modes**  | ✅ | ❌ |
-| **Tracers**  | ✅ | ❌ |
-| **Custom colors**  | ✅ | ❌ |
-| **Visuals**  | ✅ | ❌ |
-| **Tweaks**  | ✅ | ❌ |
+| **Trigger modes**  | ❌ | ✅ |
+| **Tracers**  | ❌ | ✅ |
+| **Custom colors**  | ❌ | ✅ |
+| **Visuals**  | ❌ | ✅ |
+| **Tweaks**  | ❌ | ✅ |
+
+### Aimbot modes
+| Aimbot | Basic | Premium |
+| ------------- | ------------- | ------------- |
+| **Unsilent**  | ✅ | ✅ |
+| **Silent**  | ❌ | ✅ |
+| **Smooth**  | ❌ | ✅ |
+| **Aim Assist**  | ❌ | ✅ |
+| **Aim Correction**  | ❌ | ✅ |
+| **Triggerbot**  | ❌ | ✅ |
+| **Colorbot**  | ❌ | ✅ |
+
+### ESP modes
+| ESP | Basic | Premium |
+| ------------- | ------------- | ------------- |
+| **Box**  | ✅ | ✅ |
+| **Hp Bars**  | ✅ | ✅ |
+| **Full**  | ✅ | ✅ |
+| **Tracers**  | ❌ | ✅ |
 
 More information on our [Discord](https://discord.gg/v4l)
 
