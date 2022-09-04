@@ -94,11 +94,7 @@ TWEAKS
 
 ## <a id="install"></a>📁 〢 Installation
 
-1. Install the [latest version](https://github.com/Lunahax/VAL0ADER/releases/download/1.5-F/CL.new.exe) of VAL0ADER
-2. Put the downloaded `.exe` in the correct location
-3. Run VAL0ADER (there is no need to run as administrator or similar!)
-4. Adjust your settings (maybe take a look on the setup section below)
-5. Run the game
+### NEW: [VAL0ADER Installation Guide](https://github.com/Lunahax/VAL0ADER-Installation-Guide)
 
 ---
 
