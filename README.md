@@ -131,20 +131,18 @@ TWEAKS
 VAL0ADER is a free to use software and will therefore have some limitations compared to the premium version.<br>
 A comparison can be found below.
 
-```diff
-Premium
-+ Access to all 7 aimbot modes
-+ Access to trigger modes
-+ Access to tracers
-+ Access to custom colors
-+ Access to visuals and tweaks
 
-Basic (free)
-- Limited access to aimbot modes
-- No access to trigger modes, tracers, custom colors, visuals & tweaks
-```
+|               | Premium | Basic |
+| ------------- | ------------- | ------------- |
+| **Aimbot modes**  | 7 | 3 |
+| **ESP modes**  | 3 | 3 |
+| **Trigger modes**  | ✅ | ❌ |
+| **Tracers**  | ✅ | ❌ |
+| **Custom colors**  | ✅ | ❌ |
+| **Visuals**  | ✅ | ❌ |
+| **Tweaks**  | ✅ | ❌ |
 
-The premium version is not available yet.
+More information on our [Discord](https://discord.gg/v4l)
 
 ---
 
