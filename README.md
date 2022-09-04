@@ -23,7 +23,7 @@
 </h2>
 
 #### QUICK NOTES
-- The provided source code is **NOT** 100% functional and was only partially made by me.
+- The provided source code is **NOT** 100% functional and was only partially made by me. Release files should work just fine.
 - This is the only real VAL0ADER repository, any other one is fake (click [here](#skids) for a list of skids and fakers).
 - I am not responsible for your actions, use VAL0ADER on your own risk.
 
