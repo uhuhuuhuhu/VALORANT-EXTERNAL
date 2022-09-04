@@ -130,6 +130,8 @@ A comparison can be found below.
 ### General
 | General | Basic | Premium |
 | ------------- | ------------- | ------------- |
+| **Works in practice range**  | ❌ | ✅ |
+| **Works in DM**  | ❌ | ✅ |
 | **Aimbot modes**  | 3 | 7 |
 | **ESP modes**  | 3 | 3 |
 | **Trigger modes**  | ❌ | ✅ |
@@ -168,6 +170,7 @@ v1.5.3 | 31/08/2022
 + Added ToS
 + Edited watermarks
 + New obfuscation
+- Removed Aimbot/ESP working on Bots when using free version
 
 v1.5.2 | 30/08/2022
 + Improved watermarks
