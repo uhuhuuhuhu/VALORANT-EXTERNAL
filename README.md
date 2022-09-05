@@ -14,7 +14,6 @@
   <a href="https://github.com/Lunahax/VAL0ADER"><img src="https://img.shields.io/badge/version-1.5.3--F-brightgreen?style=for-the-badge"></a>
   <a href="https://github.com/Lunahax/VAL0ADER"><img src="https://img.shields.io/github/stars/Lunahax/VAL0ADER?color=%02B039&label=Stars&style=for-the-badge"></a>
   <a href="https://github.com/Lunahax/VAL0ADER"><img src="https://img.shields.io/github/downloads/Lunahax/VAL0ADER/total?color=brightgreen&style=for-the-badge"></a>
-  <a href="https://VibrantJuvenileTaskscheduling.smurfloader.repl.co"><img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Server&style=for-the-badge&up_color=brightgreen&up_message=Online&url=https%3A%2F%2FVibrantJuvenileTaskscheduling.smurfloader.repl.co"></a>
   <a href="https://discord.gg/v4l"><img src="https://img.shields.io/discord/1002717579820945500?color=brightgreen&label=DISCORD&style=for-the-badge"></a>
 </p>
 
