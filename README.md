@@ -165,6 +165,13 @@ More information on our [Discord](https://discord.gg/v4l)
 ## <a id="changes"></a>💭 〢 Changelogs
 
 ```diff
+v1.6 | 05/09/2022
++ Added Beta ESP.exe for 21h2 upwards
++ Auto-check for new version
++ New obfuscation
+- Bugfixes
+- Keys are required again
+
 v1.5.3 | 31/08/2022
 + Added ToS
 + Edited watermarks
