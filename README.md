@@ -101,7 +101,7 @@ Outdated
 
 ```diff
 v1.6 | 05/09/2022
-+ Added Beta ESP.exe for 21h2 upwards
++ Added Beta ESP
 + Auto-check for new version
 + New obfuscation
 - Bugfixes
