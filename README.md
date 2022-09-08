@@ -25,6 +25,7 @@
 
 #### QUICK NOTES
 - Published source code is **NOT** 100% functional and was only partially made by me ([Credits](#lw)).
+- The public source code is only a part of the entire project.
 - [Contact me](#discord) if you need help or want it to work.
 - This is the only real VAL0ADER repository, any other one is fake (click [here](#skids) for a list of skids and fakers).
 
