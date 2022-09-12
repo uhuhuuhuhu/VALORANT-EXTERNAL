@@ -18,9 +18,7 @@
 </p>
 
 <h2 align="center">
-  <kbd>
-  <a href="https://lunahax.github.io">WEBSITE</a>
-  </kbd>
+  <a href="https://lunahax.github.io">🌐 WEBSITE 🌐</a>
 </h2>
 
 #### QUICK NOTES
