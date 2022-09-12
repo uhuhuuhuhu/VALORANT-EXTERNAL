@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/Lunahax/VAL0ADER"><img src="https://img.shields.io/badge/Made%20by-Lunahax-brightgreen?style=for-the-badge"></a>
-  <a href="https://github.com/Lunahax/VAL0ADER"><img src="https://img.shields.io/badge/version-1.6-brightgreen?style=for-the-badge"></a>
+  <a href="https://github.com/Lunahax/VAL0ADER"><img src="https://img.shields.io/badge/version-1.7-brightgreen?style=for-the-badge"></a>
   <a href="https://github.com/Lunahax/VAL0ADER"><img src="https://img.shields.io/github/stars/Lunahax/VAL0ADER?color=%02B039&label=Stars&style=for-the-badge"></a>
   <!-- a href="https://github.com/Lunahax/VAL0ADER"><img src="https://img.shields.io/github/downloads/Lunahax/VAL0ADER/total?color=brightgreen&style=for-the-badge"></a --->
   <a href="https://discord.gg/v4l"><img src="https://img.shields.io/discord/1002717579820945500?color=brightgreen&label=DISCORD&style=for-the-badge"></a>
@@ -19,7 +19,7 @@
 
 <h2 align="center">
   <kbd>
-  Aimbot, ESP, Visuals & More
+  <a href="https://lunahax.github.io">WEBSITE</a>
   </kbd>
 </h2>
 
@@ -100,6 +100,12 @@ Outdated
 ## <a id="changes"></a>💭 〢 Changelogs
 
 ```diff
+v1.7 | 12/09/2022
++ Unable to locate VALORANT.exe is now easier to fix
++ New obfuscation
++ Better anti-key-sharing system
+- Discord#Tag now required
+
 v1.6 | 05/09/2022
 + Added Beta ESP
 + Auto-check for new version
