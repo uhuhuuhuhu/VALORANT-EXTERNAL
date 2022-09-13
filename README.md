@@ -149,6 +149,7 @@ VAL0ADER, it's repository, etc. have been inspired by:
 - Ileriayo
 - Sarnax
 - Rdimo
+- Kennnotation
 
 Credits go to:
 - Sarnax for his awesome open source repo
