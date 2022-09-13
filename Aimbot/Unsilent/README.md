@@ -1,3 +1,0 @@
-Credits:
-- Sarnax
-- Baguette man 
