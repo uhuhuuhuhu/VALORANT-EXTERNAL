@@ -3,7 +3,10 @@
 <!-- Friendly Reminder: Do not forget to give credit, I'd be very thankful --->
 
 
-
+# IMPORTANT NOTES
+## CODE IS NOT FUNCTIONAL
+## LOADER DOES NOT WORK WITHOUT EXCLUSIVE FILES
+## IF YOU ARE SOME KID WHO DOESN'T KNOW SH¡T ABOUT CHEATS: NO THIS IS NOT A FREE WORKING CHEAT
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Lunahax/images/main/VAL0ADER/img/val0ader.jpg">
@@ -22,6 +25,7 @@
 </h2>
 
 #### QUICK NOTES
+- PROVIDED LOADER IN RELEASES DOES NOT WORK WITHOUT EXCLUSIVE FILES
 - Published source code is **NOT** 100% functional and was only partially made by me ([Credits](#lw)).
 - The public source code is only a part of the entire project.
 - [Contact me](#discord) if you need help or want it to work.
@@ -32,7 +36,6 @@
 ## <a id="toc"></a>🌐 〢 Table of Contents
 - [🌸 ・ Features](https://github.com/Lunahax/VAL0ADER#features)
 - [🧐 ・ Preview](https://github.com/Lunahax/VAL0ADER#preview)
-- [📁 ・ Installation](https://github.com/Lunahax/VAL0ADER#install)
 - [💭 ・ Changelogs](https://github.com/Lunahax/VAL0ADER#changes)
 - [🤓 ・ Skids](https://github.com/Lunahax/VAL0ADER#skids)
 - [🙏 ・ Last words](https://github.com/Lunahax/VAL0ADER#lw)
@@ -86,12 +89,6 @@ Outdated
 ![3](https://raw.githubusercontent.com/Lunahax/images/main/VAL0ADER/img/esp/Valorant_Screenshot_2022.08.12_-_17.40.03.98.png)
 ![4](https://raw.githubusercontent.com/Lunahax/images/main/VAL0ADER/img/esp/Valorant_Screenshot_2022.08.12_-_17.39.23.65.png)
 ![5](https://github.com/Lunahax/images/blob/main/VAL0ADER/img/a1mb0t/a1m.gif?raw=true)
-
----
-
-## <a id="install"></a>📁 〢 Installation
-
-### [VAL0ADER Installation Guide (click me)](https://github.com/Lunahax/VAL0ADER-Installation-Guide)
 
 ---
 
