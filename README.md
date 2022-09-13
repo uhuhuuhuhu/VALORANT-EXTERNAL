@@ -95,6 +95,14 @@ Outdated
 ## <a id="changes"></a>💭 〢 Changelogs
 
 ```diff
+v1.8 | 13/09/2022
++ New obfuscation
++ Updated ToS
++ Added increased loading times to allow easier reading 
++ Various bugfixes
+- Removed Discord links
+- Removed default keys
+
 v1.7 | 12/09/2022
 + Unable to locate VALORANT.exe is now easier to fix
 + New obfuscation
