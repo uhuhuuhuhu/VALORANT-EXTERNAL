@@ -3,10 +3,12 @@
 <!-- Friendly Reminder: Do not forget to give credit, I'd be very thankful --->
 
 
-# IMPORTANT NOTES
-## CODE IS NOT FUNCTIONAL
-## LOADER DOES NOT WORK WITHOUT EXCLUSIVE FILES
-## IF YOU ARE SOME KID WHO DOESN'T KNOW SH¡T ABOUT CHEATS: NO THIS IS NOT A FREE WORKING CHEAT
+# ⚠️ IMPORTANT NOTES ⚠️
+## ❗ CODE IS NOT FUNCTIONAL
+## ❌ VARIOUS FILES ARE MISSING ON PURPOSE 
+## 💀 THIS IS NOT A FREE WORKING CHEAT
+## 💻 CODE IS MAINLY FOR REFERENCE
+## 👺 WE ARE LOOKING FOR DEVS 
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Lunahax/images/main/VAL0ADER/img/val0ader.jpg">
