@@ -1,3 +1,3 @@
 Credits:
-Sarnax
-Baguette man 
+- Sarnax
+- Baguette man 
