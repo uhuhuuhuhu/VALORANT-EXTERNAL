@@ -84,6 +84,13 @@ TWEAKS
 ## <a id="changes"></a>💭 〢 Changelogs
 
 ```diff
+v1.9 | 16/09/2022
++ New obfuscation
++ Updated ToS
++ Added increased loading times to allow easier reading 
++ Various bugfixes
++ Re-added Discord links
+
 v1.8 | 13/09/2022
 + New obfuscation
 + Updated ToS
