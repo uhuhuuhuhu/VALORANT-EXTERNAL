@@ -26,7 +26,7 @@
 </h2>
 
 #### QUICK NOTES
-- PROVIDED LOADER IN RELEASES DOES NOT WORK WITHOUT EXCLUSIVE FILES
+- PROVIDED LOADER IN RELEASES DOES NOT WORK WITHOUT EXCLUSIVE KEY
 - Published source code is **NOT** 100% functional and was only partially made by me ([Credits](#lw)).
 - The public source code is only a part of the entire project.
 - [Contact me](#discord) if you need help or want it to work.
@@ -149,20 +149,17 @@ Go learn coding and stop copying my code then putting your name in it. Go back t
 
 ## <a id="lw"></a>🙏 〢 Some last words
 
-VAL0ADER, it's repository, etc. have been inspired by:
+VAL0ADER, it's repository, etc. was inspired and supported by third parties.
+
+Thanks to:
 - Ileriayo
 - Sarnax
 - Rdimo
 - Kennnotation
-
-Credits go to:
-- Sarnax for his awesome open source repo
-- Baguette man for his C#/C++ tutorials
-
-Special thanks to:
 - Baguette man
 - Vier
-- Mr Potato
+- My awesome team!
+
 
 Like this project? Feel free to leave a star ⭐
 
