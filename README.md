@@ -4,11 +4,10 @@
 
 
 # ⚠️ IMPORTANT NOTES ⚠️
-## ❗ CODE IS NOT FUNCTIONAL
+## 👺 CODE IS NOT FUNCTIONAL
 ## ❌ VARIOUS FILES ARE MISSING ON PURPOSE 
 ## 💀 THIS IS NOT A FREE WORKING CHEAT
 ## 💻 CODE IS MAINLY FOR REFERENCE
-## 👺 WE ARE LOOKING FOR DEVS 
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Lunahax/images/main/VAL0ADER/img/val0ader.jpg">
@@ -37,7 +36,6 @@
 
 ## <a id="toc"></a>🌐 〢 Table of Contents
 - [🌸 ・ Features](https://github.com/Lunahax/VAL0ADER#features)
-- [🧐 ・ Preview](https://github.com/Lunahax/VAL0ADER#preview)
 - [💭 ・ Changelogs](https://github.com/Lunahax/VAL0ADER#changes)
 - [🤓 ・ Skids](https://github.com/Lunahax/VAL0ADER#skids)
 - [🙏 ・ Last words](https://github.com/Lunahax/VAL0ADER#lw)
@@ -80,17 +78,6 @@ TWEAKS
 - Auto buy
 - Anti-AFK
 ```
-
----
-
-## <a id="preview"></a>🧐 〢 Preview
-Outdated
-
-![1](https://raw.githubusercontent.com/Lunahax/images/main/VAL0ADER/img/ui/startscreen.png)
-![2](https://raw.githubusercontent.com/Lunahax/images/main/VAL0ADER/img/ui/prem.png)
-![3](https://raw.githubusercontent.com/Lunahax/images/main/VAL0ADER/img/esp/Valorant_Screenshot_2022.08.12_-_17.40.03.98.png)
-![4](https://raw.githubusercontent.com/Lunahax/images/main/VAL0ADER/img/esp/Valorant_Screenshot_2022.08.12_-_17.39.23.65.png)
-![5](https://github.com/Lunahax/images/blob/main/VAL0ADER/img/a1mb0t/a1m.gif?raw=true)
 
 ---
 
