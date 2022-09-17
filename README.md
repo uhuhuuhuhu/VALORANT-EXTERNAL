@@ -71,12 +71,6 @@ VISUALS
 - Unlock skins
 - Unlock Buddies
 - Unlock Player cards
-
-TWEAKS
-- Auto bhop
-- Auto lock agent
-- Auto buy
-- Anti-AFK
 ```
 
 ---
