@@ -78,6 +78,21 @@ VISUALS
 ## <a id="changes"></a>💭 〢 Changelogs
 
 ```diff
+v2.0 | 17/09/2022
++ New obfuscation
++ ToS now shown seperately
++ Decreased loading times
++ Various bugfixes
++ New logo
++ Better error-syncing
++ New menu
++ Fixed in-game menu
++ Added recommendations to settings
++ Easier usage
++ Better server-syncing
++ Fixed skinchanger errors on bulldog and spectre
+- Removed tweaks
+
 v1.9 | 16/09/2022
 + New obfuscation
 + Updated ToS
@@ -103,7 +118,7 @@ v1.6 | 05/09/2022
 + Added Beta ESP
 + Auto-check for new version
 + New obfuscation
-- Bugfixes
++ Bugfixes
 - Keys are required again
 
 v1.5.3 | 31/08/2022
@@ -115,7 +130,7 @@ v1.5.3 | 31/08/2022
 v1.5.2 | 30/08/2022
 + Improved watermarks
 + Added new obfuscation
-- Various bugfixes
++ Various bugfixes
 
 v1.5.1 | 29/08/2022
 + Added compability for winvers below 1909
@@ -127,7 +142,7 @@ v1.5.0 | 28/08/2022
 v1.4.0 | 27/08/2022
 + New UI
 + New Modmenu
-- Bugfixes
++ Bugfixes
 ```
 
 ---
