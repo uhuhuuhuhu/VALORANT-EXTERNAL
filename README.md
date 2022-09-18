@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/Lunahax/VAL0ADER"><img src="https://img.shields.io/badge/Made%20by-Lunahax%20&%20Alune%20Development-brightgreen?style=for-the-badge"></a>
+  <a href="https://github.com/Lunahax/VAL0ADER"><img src="https://img.shields.io/badge/In%20cooperation%20with-XUAcom-brightgreen?style=for-the-badge"></a>
   <a href="https://github.com/Lunahax/VAL0ADER"><img src="https://img.shields.io/badge/Originally%20founded%20by-baguette%20man-brightgreen?style=for-the-badge"></a>
   <a href="https://github.com/Lunahax/VAL0ADER"><img src="https://img.shields.io/badge/Owned%20by-Lunahax%20&%20XUAcom-brightgreen?style=for-the-badge"></a>
   <a href="https://github.com/Lunahax/VAL0ADER"><img src="https://img.shields.io/badge/version-2.1-brightgreen?style=for-the-badge"></a>
