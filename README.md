@@ -78,7 +78,7 @@ VISUALS
 ## <a id="changes"></a>💭 〢 Changelogs
 
 ```diff
-v2.1 | 17/09/2022
+v2.1 | 18/09/2022
 + New obfuscation
 + Various bugfixes
 
