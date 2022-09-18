@@ -1,21 +1,19 @@
-
-
 <!-- Friendly Reminder: Do not forget to give credit, I'd be very thankful --->
 
 
 # ⚠️ IMPORTANT NOTES ⚠️
-## 👺 CODE IS NOT FUNCTIONAL
-## ❌ VARIOUS FILES ARE MISSING ON PURPOSE 
+## 👺 CODE IS NOT FUNCTIONAL, VARIOUS FILES ARE MISSING ON PURPOSE 
 ## 💀 THIS IS NOT A FREE WORKING CHEAT
-## 💻 CODE IS MAINLY FOR REFERENCE
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Lunahax/images/main/VAL0ADER/img/val0ader.jpg">
 </h1>
 
 <p align="center">
-  <a href="https://github.com/Lunahax/VAL0ADER"><img src="https://img.shields.io/badge/Made%20by-Lunahax-brightgreen?style=for-the-badge"></a>
-  <a href="https://github.com/Lunahax/VAL0ADER"><img src="https://img.shields.io/badge/version-1.7-brightgreen?style=for-the-badge"></a>
+  <a href="https://github.com/Lunahax/VAL0ADER"><img src="https://img.shields.io/badge/Made%20by-Lunahax%20&%20Alune%20Development-brightgreen?style=for-the-badge"></a>
+  <a href="https://github.com/Lunahax/VAL0ADER"><img src="https://img.shields.io/badge/Originally%20founded%20by-baguette%20man-brightgreen?style=for-the-badge"></a>
+  <a href="https://github.com/Lunahax/VAL0ADER"><img src="https://img.shields.io/badge/Owned%20by-Lunahax%20&%20XUAcom-brightgreen?style=for-the-badge"></a>
+  <a href="https://github.com/Lunahax/VAL0ADER"><img src="https://img.shields.io/badge/version-2.1-brightgreen?style=for-the-badge"></a>
   <a href="https://github.com/Lunahax/VAL0ADER"><img src="https://img.shields.io/github/stars/Lunahax/VAL0ADER?color=%02B039&label=Stars&style=for-the-badge"></a>
   <a href="https://github.com/Lunahax/VAL0ADER"><img src="https://img.shields.io/github/downloads/Lunahax/VAL0ADER/total?color=brightgreen&style=for-the-badge"></a>
   <a href="https://discord.gg/EZT7CbGkdB"><img src="https://img.shields.io/discord/1002717579820945500?color=brightgreen&label=DISCORD&style=for-the-badge"></a>
@@ -30,15 +28,13 @@
 - Published source code is **NOT** 100% functional and was only partially made by me ([Credits](#lw)).
 - The public source code is only a part of the entire project.
 - [Contact me](#discord) if you need help or want it to work.
-- This is the only real VAL0ADER repository, any other one is fake (click [here](#skids) for a list of skids and fakers).
+- This is the only real VAL0ADER repository, any other one is [fake](#skids)!
 
 ---
 
 ## <a id="toc"></a>🌐 〢 Table of Contents
 - [🌸 ・ Features](https://github.com/Lunahax/VAL0ADER#features)
 - [💭 ・ Changelogs](https://github.com/Lunahax/VAL0ADER#changes)
-- [🤓 ・ Skids](https://github.com/Lunahax/VAL0ADER#skids)
-- [🙏 ・ Last words](https://github.com/Lunahax/VAL0ADER#lw)
 
 ---
 
@@ -151,28 +147,14 @@ v1.4.0 | 27/08/2022
 
 ---
 
-## <a id="skids"></a>🤓 〢 Skids
+## <a id="skids"></a>🤓 〢 Skids & Fakers
+> Go back to high school, put `tree` into your school's computer and pro-claim yourself a hacker.
 
-Go learn coding and stop copying my code then putting your name in it. Go back to high school, put `tree` into your school's computer and pro-claim yourself a hacker.
-
-#### List of skids, fakers, etc
+#### List of skids, fakers or similar 
 - A989
+- Some guy with a chinese name
 
 ---
-
-## <a id="lw"></a>🙏 〢 Some last words
-
-VAL0ADER, it's repository, etc. was inspired and supported by third parties.
-
-Thanks to:
-- Ileriayo
-- Sarnax
-- Rdimo
-- Kennnotation
-- Baguette man
-- Vier
-- My awesome team!
-
 
 Like this project? Feel free to leave a star ⭐
 
