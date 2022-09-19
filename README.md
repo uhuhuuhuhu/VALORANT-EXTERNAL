@@ -39,12 +39,6 @@
 
 ---
 
-## <a id="discord"></a>💬 〢 DISCORD
-
-- FAQ, updates & help: https://discord.gg/EZT7CbGkdB
-
----
-
 ## <a id="features"></a>🌸 〢 Features
 
 ```
@@ -151,9 +145,10 @@ v1.4.0 | 27/08/2022
 ## <a id="skids"></a>🤓 〢 Skids & Fakers
 > Go back to high school, put `tree` into your school's computer and pro-claim yourself a hacker.
 
-#### List of skids, fakers or similar 
+#### List of skids, fakers, fatherless & friendless kids, etc.
 - A989
 - Some guy with a chinese name
+- Pixy
 
 ---
 
