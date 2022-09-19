@@ -1,7 +1,7 @@
 <!-- Friendly Reminder: Do not forget to give credit, I'd be very thankful --->
 
 
-# ⚠️ IMPORTANT NOTES ⚠️
+
 ## 👺 CODE IS NOT FUNCTIONAL, VARIOUS FILES ARE MISSING ON PURPOSE 
 ## 💀 THIS IS NOT A FREE WORKING CHEAT
 
