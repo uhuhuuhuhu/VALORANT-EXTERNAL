@@ -1,6 +1,3 @@
-# ⚠️ QUICK REMINDER ⚠️
-THIS IS THE ONLY REAL VERSION
-
 <h1 id="title" align="center">
 🌙 VAL0ADER 🌙
 </h1>
@@ -96,13 +93,6 @@ The installation is just as easy as the usage. Place the file in your `\Riot Gam
 Once you've installed and ran the software, a pop-up should appear. Set your settings and hop into the game!
 
 Experience errors? We can help you! Contact us on our [Discord Server](https://discord.gg/kDNBMtFKjq) and we will help you!
-
----
-
-## <a id="fake"></a>🤡 〢 FAKE
-Probably malware
-
-- [A989](https://github.com/A989/Val0ader)
 
 ---
 
