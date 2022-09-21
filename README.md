@@ -1,6 +1,5 @@
 # ⚠️ QUICK REMINDER ⚠️
 THIS IS THE ONLY REAL VERSION
-THE ONES MENTIONED [HERE](#fake) ARE FAKES
 
 <h1 id="title" align="center">
 🌙 VAL0ADER 🌙
@@ -104,7 +103,7 @@ Experience errors? We can help you! Contact us on our [Discord Server](https://d
 Probably malware
 
 - [A989](https://github.com/A989/Val0ader)
-- [Cheaply](https://github.com/cheaply/VALOFF-VALORANT-CHEAT)
+
 ---
 
 <p id="star" align="center">
