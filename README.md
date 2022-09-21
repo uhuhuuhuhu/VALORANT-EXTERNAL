@@ -97,6 +97,6 @@ Experience errors? We can help you! Contact us on our [Discord Server](https://d
 ---
 
 <p id="star" align="center">
-Like this project? Feel free to leave a star ⭐
+Like this project? Feel free to leave a star ⭐<br>
 <a href=#top>Back to Top</a>
 </p>
