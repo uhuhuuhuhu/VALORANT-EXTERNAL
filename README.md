@@ -1,3 +1,12 @@
+<h3 id="title" align="center">
+Since some of y'all are kinda stupid:
+</h3>
+<h1 id="title" align="center">
+THIS IS NOT A FREE WORKING CHEAT
+</h1>
+
+---
+
 <h1 id="title" align="center">
 🌙 VAL0ADER 🌙
 </h1>
