@@ -5,7 +5,7 @@
 
 ## Notes
 
-Published source code is not 100% functional. If you want it to work [contact us](https://discord.gg/xrwVXGPCvZ)
+Published source code is not 100% functional. If you want it to work [contact us](https://discord.gg/xod)
 
 ## Features
 - 3 Aimbot Modes
