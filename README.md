@@ -5,7 +5,7 @@
 
 ## Notes
 
-Published source code is not 100% functional. If you want it to work [contact us](https://discord.gg/xod)
+Published source code is not functional. Release is coming soon.
 
 ## Features
 - 3 Aimbot Modes
