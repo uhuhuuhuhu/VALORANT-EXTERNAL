@@ -5,7 +5,7 @@
 
 ## Notes
 
-Published source code is not functional. Release is coming soon.
+Published source code is outdated.
 
 ## Features
 - 3 Aimbot Modes
