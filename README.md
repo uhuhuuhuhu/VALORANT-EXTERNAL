@@ -73,7 +73,7 @@ If you would like us to add something please get in contact. Any feedback is app
 ## <a id="pre"></a>🌙 〢 Prerequisites
 
 You will need:
-- An own mouse driver **OR** an empty formattable USB stick with at least 8gb of storage (USB 3.0 recommended; When using this format, VALORANT-EXTERNAL-MOUSE-INSTALLER is required)
+- An own mouse driver **OR** an empty formattable USB stick with at least 8gb of storage (USB 3.0 recommended; When using this format, [VALORANT-EXTERNAL-MOUSE-INSTALLER](https://github.com/Lunahax/VALORANT-EXTERNAL-MOUSE-INSTALLER) is required)
 - A software or website to extract `.zip` or `.rar` files.
 
 ---
