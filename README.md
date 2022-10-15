@@ -119,7 +119,11 @@ VALORANT-EXTERNAL is only compatible with:
 
 ## <a id="setup"></a>⚙️ 〢 Setup
 
-Once you've installed everything successfully, you should see an `.exe` file in your extracted folder. Running it will open a menu with many options to choose from. Adjust everything after your liking and hit the `Save` button! The window should remain open.
+1. Once you've installed everything successfully, you should see an `.exe` file in your extracted folder. Running it will open a menu with many options to choose from. Adjust everything after your liking and hit the `Save` button! The window should remain open.
+
+2. Now, in your game, head into the `General Settings` and disable `[Beta] RawInputBuffer` and under `Video Settings`, set `Window Mode` to `Windowed Fullscreen`.
+
+And now you're good to go!
 
 ---
 
@@ -130,9 +134,7 @@ Setup done? Great! Now launch your game and hop into a game!
 
 ---
 
-
-
 <p id="star" align="center">
-Like this project? Feel free to leave a star ⭐<br>
+Like this project? Feel free to leave a star ⭐! We also appreciate any feedback!<br>
 <a href=#top>Back to Top</a>
 </p>
