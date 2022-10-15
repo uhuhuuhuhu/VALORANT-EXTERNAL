@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 id="head" align="center">
 <img src="https://raw.githubusercontent.com/Lunahax/Lunahax/main/img/ezgif-2-9baa580163.gif">
 <br>VALORANT EXTERNAL 🌌
 </h1>
@@ -73,7 +73,7 @@ If you would like us to add something please get in contact. Any feedback is app
 ## <a id="pre"></a>🌙 〢 Prerequisites
 
 You will need:
-- An own mouse driver **OR** An empty formattable USB stick with at least 8gb of storage (USB 3.0 recommended!)
+- An own mouse driver **OR** an empty formattable USB stick with at least 8gb of storage (USB 3.0 recommended; When using this format, VALORANT-EXTERNAL-MOUSE-INSTALLER is required)
 - A software or website to extract `.zip` or `.rar` files.
 
 ---
@@ -135,5 +135,5 @@ Setup done? Great! Now launch your game and hop into a game!
 
 <p id="star" align="center">
 Like this project? Feel free to leave a star ⭐! We also appreciate any feedback!<br>
-<a href=#top>Back to Top</a>
+<a href=#head>Back to Top</a>
 </p>
