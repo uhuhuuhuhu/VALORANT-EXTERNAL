@@ -16,7 +16,7 @@
 <p align="center">
 <b>This project was made for educational purposes!</b>
 <br>
-VALORANT-EXTERNAL was made for educational purposes and personal use on own risk. By using our services you agree that you hold responsibility, liability and accountability of any consequences caused by your actions.
+VALORANT-EXTERNAL was made for educational purposes and personal use. By using our services you agree that you hold responsibility, liability and accountability of any consequences caused by your actions.
 </p>
 
 ---
