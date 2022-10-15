@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/Lunahax/Lunahax/main/img/ezgif-2-9baa580163.gif">
-VALORANT EXTERNAL 🌌
+<br>VALORANT EXTERNAL 🌌
 </h1>
 
 <div align="center">
