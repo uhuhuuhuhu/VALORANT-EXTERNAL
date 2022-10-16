@@ -30,7 +30,7 @@ VALORANT-EXTERNAL was made for educational purposes and personal use. By using o
 - [📂・Installation](#installation)
 - [⚙️・Setup](#setup)
 - [☄️・Usage](#usage)
-- [🌟・Star](#star)
+- [💫・License](#license)
 
 ---
 
@@ -133,7 +133,12 @@ Setup done? Great! Now launch your game and hop into a game!
 
 ---
 
-<p id="star" align="center">
-Like this project? Feel free to leave a star ⭐! We also appreciate any feedback!<br>
-<a href=#head>Back to Top</a>
-</p>
+## <a id="license"></a>💫 〢 License
+
+Before you start copying work, make sure to read the [License]().
+
+---
+
+<h2 align="center">
+Copyright © 2022 Lunahax
+</h2>
