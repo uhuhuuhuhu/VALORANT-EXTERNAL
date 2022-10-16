@@ -133,9 +133,20 @@ Setup done? Great! Now launch your game and hop into a game!
 
 ---
 
-## <a id="license"></a>💫 〢 License
+## <a id="license"></a>💫 〢 License (summed up)
 
-Before you start copying work, make sure to read the [License]().
+### You are allowed to:
+- Share and redistribute the material in any medium or format as long as the original content remains unchanged.
+
+### You are not allowed to:
+- **Use for commercial use** - You may not use the material for commercial purposes.
+- **Publish duplicates** - If you copy, remix, transform, or build upon the material, you may not distribute the modified material.
+
+### Additional Terms:
+- **Attribution** - You must give appropriate credit, provide a link to the license and original source, and indicate if and what changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+
+You can read the entire License [here](https://github.com/Lunahax/VALORANT-EXTERNAL/blob/main/LICENSE.md)
 
 ---
 
