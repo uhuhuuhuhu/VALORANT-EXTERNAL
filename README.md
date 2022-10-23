@@ -4,9 +4,10 @@
 </h1>
 
 <div align="center">
-<a href="https://github.com/Lunahax"><img src="https://img.shields.io/badge/c++-20-00dd00?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-<a href="https://github.com/Lunahax"><img src="https://img.shields.io/badge/c%23-10.0-00dd00?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
-<a href="https://github.com/Lunahax"><img src="https://img.shields.io/badge/python-3.10.8-00dd00?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://github.com/Lunahax"><img src="https://img.shields.io/github/stars/lunahax/valorant-external?color=00dd00&style=for-the-badge"></a>
+<a href="https://github.com/Lunahax"><img src="https://img.shields.io/github/forks/lunahax/valorant-external?color=00dd00&style=for-the-badge"></a>
+<a href="https://github.com/Lunahax"><img src="https://img.shields.io/github/repo-size/lunahax/valorant-external?color=00dd00&label=size&style=for-the-badge"></a>
+<a href="https://github.com/Lunahax"><img src="https://img.shields.io/github/downloads/lunahax/valorant-external/total?color=00dd00&style=for-the-badge"></a>
 </div>
 
 <h2 id="disclaimer" align="center">
