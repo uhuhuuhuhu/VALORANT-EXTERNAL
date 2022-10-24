@@ -22,15 +22,6 @@ VALORANT-EXTERNAL was made for educational purposes and personal use. By using o
 
 ---
 
-<h1 align="center">
-WE ARE LOOKING FOR TESTERS
-</h1>
-<p align="center">
-Please DM LunaR#1891 on Discord if you're interested
-</p>
-
----
-
 ## <a id="toc"></a>🌐 〢 Table of Contents
 - [⚠️・Disclaimer](#disclaimer)
 - [🌌・Features](#features)
