@@ -35,6 +35,11 @@ VALORANT-EXTERNAL was made for educational purposes and personal use. By using o
 
 ---
 
+<h3 align="center"><a href="https://discord.gg/yu8mK4vmJ3">https://discord.gg/yu8mK4vmJ3</a></h3>
+<p align="center">Discord Server for Questions, Help, Support, Contact, etc.</p>
+
+---
+
 ## <a id="features"></a>🌌 〢 Features
 
 ```sh-session
