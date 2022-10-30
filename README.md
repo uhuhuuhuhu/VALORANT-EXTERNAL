@@ -31,6 +31,7 @@ VALORANT-EXTERNAL was made for educational purposes and personal use. By using o
 - [📂・Installation](#installation)
 - [⚙️・Setup](#setup)
 - [☄️・Usage](#usage)
+- [🌟・Changelogs](#changes)
 - [💫・License](#license)
 
 ---
@@ -136,6 +137,15 @@ And now you're good to go!
 
 Setup done? Great! Now launch your game and hop into a game!
 > We recommend to head into the range earlier to test & review your configuration
+
+---
+
+## <a id="changes"></a>🌟 〢 Changelogs
+
+```diff
+v1.0 | 30/10/2022
++ stable build release
+```
 
 ---
 
