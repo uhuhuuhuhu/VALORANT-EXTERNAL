@@ -1,3 +1,13 @@
+
+
+
+
+
+
+
+
+
+
 <h1 id="head" align="center">
 VALORANT EXTERNAL 🌌
 </h1>
@@ -30,7 +40,9 @@ VALORANT-EXTERNAL was made for educational purposes and personal use. By using o
 
 ---
 
+https://user-images.githubusercontent.com/89605624/198874573-965faa3f-9c5d-44fb-b672-a6d3af1511e8.mp4
 
+https://user-images.githubusercontent.com/89605624/198874596-8d816cc4-955b-4020-8d2f-f6a76bf75cb4.mp4
 
 ---
 
