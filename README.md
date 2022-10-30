@@ -1,13 +1,3 @@
-
-
-
-
-
-
-
-
-
-
 <h1 id="head" align="center">
 VALORANT EXTERNAL 🌌
 </h1>
