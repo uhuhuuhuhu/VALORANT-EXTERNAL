@@ -1,6 +1,5 @@
 <h1 id="head" align="center">
-<img src="https://raw.githubusercontent.com/Lunahax/Lunahax/main/img/ezgif-2-9baa580163.gif">
-<br>VALORANT EXTERNAL 🌌
+VALORANT EXTERNAL 🌌
 </h1>
 
 <div align="center">
@@ -25,14 +24,10 @@ VALORANT-EXTERNAL was made for educational purposes and personal use. By using o
 ## <a id="toc"></a>🌐 〢 Table of Contents
 - [⚠️・Disclaimer](#disclaimer)
 - [🌌・Features](#features)
-- [🌙・Prerequisites](#pre)
-- [💻・System requirements](#sys)
 - [📎・Compability](#com)
 - [📂・Installation](#installation)
 - [⚙️・Setup](#setup)
-- [☄️・Usage](#usage)
 - [🌟・Changelogs](#changes)
-- [💫・License](#license)
 
 ---
 
@@ -77,25 +72,6 @@ If you would like us to add something please get in contact. Any feedback is app
 
 ---
 
-## <a id="pre"></a>🌙 〢 Prerequisites
-
-You will need:
-- An own mouse driver **OR** a registered version of VEMD
-- A software or website to extract `.zip` or `.rar` files
-
----
-
-## <a id="sys"></a>💻 〢 System requirements
-> VALORANT-EXTERNAL will have a noticable performance impact on your game as we didn't manage to optimize it yet
-
-To play on medium settings with 144+ fps you should have:
-- A GPU which is decent enough to play the game on high settings with at least 120 fps (such as a GTX 1050Ti or RX 560/570)
-- A CPU fast enough to handle 2 high usage processes at a decent speed (such as a Ryzen 5 1600 or i5-7600
-
-A specific RAM size is not required but 8(+)GB (DDR4(+); 3200(+)MHz) is recommended.
-
----
-
 ## <a id="com"></a>📎 〢 Compability
 
 VALORANT-EXTERNAL is only compatible with:
@@ -133,13 +109,6 @@ And now you're good to go!
 
 ---
 
-## <a id="usage"></a>☄️ 〢 Usage
-
-Setup done? Great! Now launch your game and hop into a game!
-> We recommend to head into the range earlier to test & review your configuration
-
----
-
 ## <a id="changes"></a>🌟 〢 Changelogs
 
 ```diff
@@ -166,6 +135,18 @@ You can read the entire License [here](https://github.com/Lunahax/VALORANT-EXTER
 
 ---
 
+<p align="center">
+Like this project? Feel free to leave a star 🌟<br>
+<a href="#top">
+Back to the top
+</a>
+</p>
+
+---
+
 <h2 align="center">
-Copyright © 2022 Lunahax
+Copyright © 2022 Lunahax<br>
+<a href="https://github.com/Lunahax/VALORANT-EXTERNAL/blob/main/LICENSE.md">
+LICENSE
+</a>
 </h2>
