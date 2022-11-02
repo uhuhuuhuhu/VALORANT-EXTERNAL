@@ -43,34 +43,34 @@ https://user-images.githubusercontent.com/89605624/198874596-8d816cc4-955b-4020-
 
 ## <a id="features"></a>🌌 〢 Features
 
+**Aimbot**
 ```sh-session
-Aimbot
-- Silent Aimbot
-- Unsilent Aimbot
-- Smooth Aimbot
+- Silent
+- Unsilent
+- Smooth
+- FOV Circle
+- Custom Circle Size
+- Custom Accuracy 
+- Custom Smoothness
+- Custom Trigger Key
+- No Recoil
 ```
 
+**ESP**
 ```sh-session
-ESP
-- Box ESP
-- Chams
-- HP Bars
+- Boxes
 - Tracers
-- Skeleton
+- HP Bars
+- Chams
+- Skeletons
+- Glow
+- Custom Glow Intensity
+- Filter Targets
 ```
 
+**Others**
 ```sh-session
-Others
-- No recoil
-- Custom keybinds
-- Auto-Update
-```
-
-```sh-session
-Coming soon
-- Spinbot
-- Triggerbot
-- Minimap ESP
+- Auto-Lock Agent
 ```
 
 If you would like us to add something please get in contact. Any feedback is appreciated.
@@ -117,8 +117,20 @@ And now you're good to go!
 ## <a id="changes"></a>🌟 〢 Changelogs
 
 ```diff
+v1.1 | 01/11/2022
++ Aimbot FOV Circle 
++ Aimbot FOV Circle Size
++ Adjustable Aimbot Smoothness 
++ More Aimbot Triggerkeys
++ Glow ESP
++ Glow Intensity 
++ Auto-Lock Agent
++ UI Updates
+- Fixed a bug where Tracers didn't show properly
+- Fixed a bug where valid TIDs were flagged as invalid 
+
 v1.0 | 30/10/2022
-+ stable build release
++ Stable Build Release
 ```
 
 ---
