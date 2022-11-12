@@ -51,7 +51,7 @@ https://user-images.githubusercontent.com/89605624/198874573-965faa3f-9c5d-44fb-
 - Custom Circle Size
 - Custom Accuracy 
 - Custom Smoothness
-- Custom Trigger Key
+- Trigger Keys
 - No Recoil
 ```
 
