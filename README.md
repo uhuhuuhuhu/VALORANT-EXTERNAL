@@ -25,7 +25,6 @@ VALORANT-EXTERNAL was made for educational purposes and personal use. By using o
 - [🌌・Features](#features)
 - [📎・Compability](#com)
 - [📂・Installation](#installation)
-- [⚙️・Setup](#setup)
 - [🌟・Changelogs](#changes)
 
 ---
@@ -94,21 +93,17 @@ VALORANT-EXTERNAL is only compatible with:
 
 5. Click on the files named `VALORANT-EXTERNAL` and they should download right away.
 
-6. If any `.zip` or `.rar` files were attached, extract these files.
+6. If any `.zip` or `.rar` files were attached, extract these files in the same folder where you can find your `Riot Games` folder (do not extract into the Riot Games folder!).
 
-7. Once extracted, you should see multiple files. One of them should be named `README.txt`, `Installation.txt` or similar. Open that file.
+7. Launch VALORANT and head into the Training Range.
 
-8. You should now see a further installation guide which will instruct you your final steps.
+8. Disable Rawinputbuffer and set window mode to Windowed Fullscreen.
 
----
+9. Launch the extracted `cheat-menu.exe`.
 
-## <a id="setup"></a>⚙️ 〢 Setup
+10. Adjust your settings and hit save to start injection.
 
-1. Once you've installed everything successfully, you should see an `.exe` file in your extracted folder. Running it will open a menu with many options to choose from. Adjust everything after your liking and hit the `Save` button! The window should remain open.
-
-2. Now, in your game, head into the `General Settings` and disable `[Beta] RawInputBuffer` and under `Video Settings`, set `Window Mode` to `Windowed Fullscreen`.
-
-And now you're good to go!
+11. Have fun!
 
 ---
 
