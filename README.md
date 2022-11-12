@@ -1,7 +1,5 @@
 ![vshowcase](https://user-images.githubusercontent.com/89605624/201468364-fb0678e7-d814-4717-a257-ad84d7e85d97.jpg)
 
-
-
 <h1 id="head" align="center">
 VALORANT EXTERNAL 🌌
 </h1>
