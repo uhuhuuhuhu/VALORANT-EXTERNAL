@@ -78,7 +78,7 @@ If you would like us to add something please get in contact. Any feedback is app
 
 ## <a id="com"></a>📎 〢 Compability
 
-VALORANT-EXTERNAL is only compatible with:
+VALORANT-EXTERNAL is compatible with:
 - Windows 10 21h2 recommended, any other should do the job as well
 
 ---
