@@ -1,4 +1,4 @@
-![vshowcase](https://user-images.githubusercontent.com/89605624/201468364-fb0678e7-d814-4717-a257-ad84d7e85d97.jpg)
+https://user-images.githubusercontent.com/89605624/198874596-8d816cc4-955b-4020-8d2f-f6a76bf75cb4.mp4
 
 <h1 id="head" align="center">
 VALORANT EXTERNAL 🌌
