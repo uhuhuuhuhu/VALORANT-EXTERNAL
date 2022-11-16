@@ -112,6 +112,13 @@ VALORANT-EXTERNAL is compatible with:
 ## <a id="changes"></a>🌟 〢 Changelogs
 
 ```diff
+v1.2 | 16/11/2022
++ Added Spinbot
++ Added Spinbot speed
++ Added Import / Export .json settings
++ Added Manual inject button
+- Fixed a bug where saving would take up to 15 minutes instead of 2
+
 v1.1 | 01/11/2022
 + Aimbot FOV Circle 
 + Aimbot FOV Circle Size
