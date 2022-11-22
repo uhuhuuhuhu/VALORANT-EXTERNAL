@@ -81,7 +81,7 @@ If you would like us to add something please get in contact. Any feedback is app
 ## <a id="com"></a>📎 〢 Compability
 > Based on test results
 
-✅ **Compatible:**
+### ✅ Compatible:
 
 **OS:**
 - Windows 10 21H1 / 21H2
@@ -94,7 +94,7 @@ If you would like us to add something please get in contact. Any feedback is app
 - Nvidia RTX 30 Series (Tested 3060 / 3070 / 3080)
 - AMD RX Series (Tested 570 / 580)
 
-❌ **Incompatible:**
+### ❌ Incompatible:
 
 **OS:**
 - Windows 10 20H2 or lower (Tested 20H2 / 1909)
