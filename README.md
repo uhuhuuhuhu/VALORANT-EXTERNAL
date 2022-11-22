@@ -69,7 +69,9 @@ https://user-images.githubusercontent.com/89605624/198874573-965faa3f-9c5d-44fb-
 
 **Others**
 ```sh-session
-- Auto-Lock Agent
+- Insta-Lock Agent
+- Spinbot
+- Custom Spinbot Speed
 ```
 
 If you would like us to add something please get in contact. Any feedback is appreciated.
@@ -77,9 +79,34 @@ If you would like us to add something please get in contact. Any feedback is app
 ---
 
 ## <a id="com"></a>📎 〢 Compability
+> Based on test results
 
-VALORANT-EXTERNAL is compatible with:
-- Windows 10 21h2 recommended, any other should do the job as well
+✅ **Compatible:**
+
+**OS:**
+- Windows 10 21H1 / 21H2
+- Windows 11 (any | might bug)
+
+**GPU:**
+> Game Ready Drivers required
+- Nvidia GTX 10 Series (Tested 1050Ti / 1060 / 1080)
+- Nvidia RTX 20 Series (Tested 2060S / 2070 / 2080S)
+- Nvidia RTX 30 Series (Tested 3060 / 3070 / 3080)
+- AMD RX Series (Tested 570 / 580)
+
+❌ **Incompatible:**
+
+**OS:**
+- Windows 10 20H2 or lower (Tested 20H2 / 1909)
+- Linux (any)
+- MacOS (any)
+
+**GPU:**
+- Nvidia GT Series (Tested 710)
+- Nvidia GTX 16 Series (Tested 1650)
+
+**Others:**
+- Logitech mouse / hub might cause issues (Tested G X Pro Superlight)
 
 ---
 
