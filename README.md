@@ -1,5 +1,4 @@
-https://user-images.githubusercontent.com/89605624/198874596-8d816cc4-955b-4020-8d2f-f6a76bf75cb4.mp4
-
+<!--header video removed-->
 <h1 id="head" align="center">
 VALORANT EXTERNAL 🌌
 </h1>
