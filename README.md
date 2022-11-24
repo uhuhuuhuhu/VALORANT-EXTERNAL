@@ -1,4 +1,3 @@
-<!--header video removed-->
 <h1 id="head" align="center">
 VALORANT EXTERNAL 🌌
 </h1>
@@ -84,28 +83,30 @@ If you would like us to add something please get in contact. Any feedback is app
 
 **OS:**
 - Windows 10 21H1 / 21H2
-- Windows 11 (any | might bug)
+- Windows 11
 
 **GPU:**
 > Game Ready Drivers required
-- Nvidia GTX 10 Series (Tested 1050Ti / 1060 / 1080)
-- Nvidia RTX 20 Series (Tested 2060S / 2070 / 2080S)
-- Nvidia RTX 30 Series (Tested 3060 / 3070 / 3080)
-- AMD RX Series (Tested 570 / 580)
+- Nvidia GTX 10 Series
+- Nvidia RTX 20 Series
+- Nvidia RTX 30 Series
+- AMD RX Series
 
 ### ❌ Incompatible:
 
 **OS:**
-- Windows 10 20H2 or lower (Tested 20H2 / 1909)
-- Linux (any)
-- MacOS (any)
+- Windows 10 20H2 or lower
+- Linux
+- MacOS
+- Samsung Smart Fridge OS (yes, we tested it)
 
 **GPU:**
-- Nvidia GT Series (Tested 710)
-- Nvidia GTX 16 Series (Tested 1650)
+- Nvidia GT Series
+- Nvidia GTX 16 Series
 
 **Others:**
-- Logitech mouse / hub might cause issues (Tested G X Pro Superlight)
+- Certain Logitech mice may cause issues
+- Certain MSI motherboards seem to cause trouble???
 
 ---
 
