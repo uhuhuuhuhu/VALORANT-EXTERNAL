@@ -83,7 +83,6 @@ If you would like us to add something please get in contact. Any feedback is app
 
 **OS:**
 - Windows 10 21H1 / 21H2
-- Windows 11
 
 **GPU:**
 > Game Ready Drivers required
@@ -96,6 +95,7 @@ If you would like us to add something please get in contact. Any feedback is app
 
 **OS:**
 - Windows 10 20H2 or lower
+- Windows 11
 - Linux
 - MacOS
 - Samsung Smart Fridge OS (yes, we tested it)
