@@ -25,6 +25,7 @@ VALORANT-EXTERNAL was made for educational purposes and personal use. By using o
 - [🌌・Features](#features)
 - [📎・Compability](#com)
 - [📂・Installation](#installation)
+- [⚙️・Troubleshooting](#ts)
 - [🌟・Changelogs](#changes)
 
 ---
@@ -133,6 +134,17 @@ If you would like us to add something please get in contact. Any feedback is app
 10. Adjust your settings and hit save to start injection.
 
 11. Have fun!
+
+---
+
+## <a id="ts"></a>⚙️ 〢 Troubleshooting
+
+> Getting an error? Try some of the methods below 
+
+- Check if your system is [compatible](#com)
+- Make sure you have extracted all files in the correct location 
+- Try to run the attached `cheat-menu.exe` as administrator 
+- Make sure your game is running in windowed fullscreen
 
 ---
 
