@@ -95,7 +95,7 @@ If you would like us to add something please get in contact. Any feedback is app
 ### ❌ Incompatible:
 
 **OS:**
-- Windows 10 20H2 or lower
+- Windows 10 22H2 / 20H2 or lower
 - Windows 11
 - Linux
 - MacOS
